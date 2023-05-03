@@ -18,7 +18,9 @@
 <a href="https://www.instagram.com/deivysmg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 </div> 
  
-## Tecnologias que eu uso no meu dia
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p> 
+  </div>
 
 <div align="center"">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
