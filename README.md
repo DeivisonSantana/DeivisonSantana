@@ -19,8 +19,8 @@
 </div> 
  
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p> 
-  </div>
+<br><p align="centre"><b>Technologies I use in my daily life</b></p> 
+</div>
 
 <div align="center"">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
